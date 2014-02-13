@@ -6,4 +6,4 @@ Setup:
 
 Obtain API Key from USAToday: http://developer.usatoday.com/member/register
 
-Update source file: SectionListActivity.java (<<YOUR_USAToday_API_Key>>) 
+Update source file: SectionListActivity.java (Replace this token: YOUR_USAToday_API_Key) 
